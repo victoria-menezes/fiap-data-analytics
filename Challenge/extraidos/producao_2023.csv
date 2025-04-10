@@ -1,0 +1,52 @@
+,categoria,produto,quantidade (l.)
+0,VINHO DE MESA,VINHO DE MESA,169.762.429
+1,VINHO DE MESA,Tinto,139.320.884
+2,VINHO DE MESA,Branco,27.910.299
+3,VINHO DE MESA,Rosado,2.531.246
+4,VINHO FINO DE MESA (VINIFERA),VINHO FINO DE MESA (VINIFERA),46.268.556
+5,VINHO FINO DE MESA (VINIFERA),Tinto,23.615.783
+6,VINHO FINO DE MESA (VINIFERA),Branco,20.693.437
+7,VINHO FINO DE MESA (VINIFERA),Rosado,1.959.336
+8,SUCO,SUCO,67.045.238
+9,SUCO,Suco de uva integral,38.122.173
+10,SUCO,Suco de uva concentrado,28.216.760
+11,SUCO,Suco de uva adoçado,94.587
+12,SUCO,Suco de uva orgânico,611.718
+13,SUCO,Suco de uva reconstituído,-
+14,DERIVADOS,DERIVADOS,174.716.647
+15,DERIVADOS,Espumante,65.525
+16,DERIVADOS,Espumante moscatel,14.744
+17,DERIVADOS,Base espumante,-
+18,DERIVADOS,Base espumante moscatel,6.734.590
+19,DERIVADOS,Base Champenoise champanha,1.552.243
+20,DERIVADOS,Base Charmat champanha,5.418.118
+21,DERIVADOS,Bebida de uva,1.627
+22,DERIVADOS,Polpa de uva,1.388.251
+23,DERIVADOS,Mosto simples,157.848.983
+24,DERIVADOS,Mosto concentrado,-
+25,DERIVADOS,Mosto de uva com bagaço,7.784
+26,DERIVADOS,Mosto dessulfitado,-
+27,DERIVADOS,Mistelas,600
+28,DERIVADOS,Néctar de uva,70.976
+29,DERIVADOS,Licorosos,-
+30,DERIVADOS,Compostos,-
+31,DERIVADOS,Jeropiga,4.500
+32,DERIVADOS,Filtrado,-
+33,DERIVADOS,Frisante,-
+34,DERIVADOS,Vinho leve,-
+35,DERIVADOS,Vinho licoroso,73.600
+36,DERIVADOS,Brandy,450
+37,DERIVADOS,Destilado,-
+38,DERIVADOS,Bagaceira,-
+39,DERIVADOS,Licor de bagaceira,-
+40,DERIVADOS,Vinagre,9.000
+41,DERIVADOS,Borra líquida,758.140
+42,DERIVADOS,Borra seca,17.200
+43,DERIVADOS,Vinho Composto,-
+44,DERIVADOS,Pisco,-
+45,DERIVADOS,Vinho orgânico,94.150
+46,DERIVADOS,Espumante orgânico,1.365
+47,DERIVADOS,Destilado alcoólico simples de bagaceira,-
+48,DERIVADOS,Vinho acidificado,2.500
+49,DERIVADOS,Mosto parcialmente fermentado,-
+50,DERIVADOS,Outros derivados,652.301
