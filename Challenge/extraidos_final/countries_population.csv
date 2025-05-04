@@ -1,0 +1,249 @@
+,continente,pais_eng,pais,populacao
+0,África,Nigeria,Nigéria,227882945
+1,África,Ethiopia,Etiópia,128691692
+2,África,Egypt,Egito,114535772
+3,África,DR Congo,,105789731
+4,África,Tanzania,Tanzânia,66617606
+5,África,South Africa,África do Sul,63212384
+6,África,Kenya,Quênia,55339003
+7,África,Sudan,Sudão,50042791
+8,África,Uganda,Uganda,48656601
+9,África,Algeria,Argélia,46164219
+10,África,Morocco,Marrocos,37712505
+11,África,Angola,Angola,36749906
+12,África,Ghana,Gana,33787914
+13,África,Mozambique,Moçambique,33635160
+14,África,Madagascar,Madagáscar,31195932
+15,África,Ivory Coast,Costa do Marfim,31165654
+16,África,Cameroon,Camarões,28372687
+17,África,Niger,Níger,26159867
+18,África,Mali,Mali,23769127
+19,África,Burkina Faso,Burquina Faso,23025776
+20,África,Malawi,Malawi,21104482
+21,África,Zambia,Zâmbia,20723965
+22,África,Chad,Chade,19319064
+23,África,Somalia,Somália,18358615
+24,África,Senegal,Senegal,18077573
+25,África,Zimbabwe,Zimbábue,16340822
+26,África,Guinea,Guiné,14405465
+27,África,Benin,Benim,14111034
+28,África,Rwanda,Ruanda,13954471
+29,África,Burundi,Burundi,13689450
+30,África,Tunisia,Tunísia,12200431
+31,África,South Sudan,Sudão do Sul,11483374
+32,África,Togo,Togo,9304337
+33,África,Sierra Leone,Serra Leoa,8460512
+34,África,Libya,Líbia,7305659
+35,África,Republic of the Congo,República do Congo,6182885
+36,África,Liberia,Libéria,5493031
+37,África,Central African Republic,,5152421
+38,África,Mauritania,Mauritânia,5022441
+39,África,Eritrea,Eritreia,3470390
+40,África,Namibia,Namíbia,2963095
+41,África,Gambia,Gâmbia,2697845
+42,África,Gabon,Gabão,2484789
+43,África,Botswana,Botsuana,2480244
+44,África,Lesotho,Lesoto,2311472
+45,África,Guinea-Bissau,Guiné-Bissau,2153339
+46,África,Equatorial Guinea,Guiné Equatorial,1847549
+47,África,Mauritius,Maurícias,1273588
+48,África,Eswatini,Essuatíni,1230506
+49,África,Djibouti,Djibuti,1152944
+50,África,Réunion,,896175
+51,África,Comoros,Comores,850387
+52,África,Western Sahara,,579729
+53,África,Cape Verde,,522331
+54,África,São Tomé and Príncipe,,230871
+55,África,Seychelles,Seicheles,127951
+0,América,United States,Estados Unidos,339979847
+1,América,Brazil,Brasil,217637297
+2,América,Mexico,México,130000000
+3,América,Colombia,Colômbia,52049498
+4,América,Argentina,Argentina,46208747
+5,América,Canada,Canadá,38395507
+6,América,Peru,Peru,34035304
+7,América,Venezuela,Venezuela,28705000
+8,América,Chile,Chile,19678363
+9,América,Ecuador,Equador,18697380
+10,América,Guatemala,Guatemala,17109746
+11,América,Haiti,Haiti,11743017
+12,América,Bolivia,Bolívia,11312620
+13,América,Cuba,Cuba,11193470
+14,América,Dominican Republic,República Dominicana,10535535
+15,América,Honduras,Honduras,10200000
+16,América,Paraguay,Paraguai,7353038
+17,América,El Salvador,El Salvador,6825935
+18,América,Nicaragua,Nicarágua,6527691
+19,América,Costa Rica,Costa Rica,5163038
+20,América,Panama,Panamá,4278500
+21,América,Uruguay,Uruguai,3554915
+22,América,Jamaica,Jamaica,2900000
+23,América,Puerto Rico (US)[3],,2700000
+24,América,Trinidad and Tobago,Trinidad e Tobago,1366725
+25,América,Guyana,Guiana,743699
+26,América,Suriname,Suriname,590100
+27,América,Belize,Belize,419199
+28,América,Guadeloupe (France),,405000
+29,América,Bahamas,Bahamas,393450
+30,América,Martinique (France),,383000
+31,América,Barbados,Barbados,288000
+32,América,French Guiana (France),,262000
+33,América,Saint Lucia,Santa Lúcia,178696
+34,América,Curaçao (Kingdom of the Netherlands),,156223
+35,América,Grenada,Granada,113000
+36,América,Aruba (Kingdom of the Netherlands),,111904
+37,América,Saint Vincent and the Grenadines,São Vicente e Granadinas,110696
+38,América,United States Virgin Islands (US),,104000
+39,América,Antigua and Barbuda,Antígua e Barbuda,99337
+40,América,Dominica,Dominica,72000
+41,América,Cayman Islands (UK),,64958
+42,América,Bermuda (UK),,64055
+43,América,Greenland (Denmark),,56421
+44,América,Saint Kitts and Nevis,São Cristóvão e Nevis,54000
+45,América,Turks and Caicos Islands (UK),,42953
+46,América,Sint Maarten (Kingdom of the Netherlands),,40614
+47,América,Saint Martin (France),,34065
+48,América,British Virgin Islands (UK),,30000
+49,América,Caribbean Netherlands (Kingdom of the Netherlands),,25157
+50,América,Anguilla (UK),,15000
+51,América,Saint Barthélemy (France),,10124
+52,América,Saint Pierre and Miquelon (France),,5985
+53,América,Montserrat (UK),,5000
+54,América,Falkland Islands (UK)[4],,3398
+55,América,South Georgia and the South Sandwich Islands (UK)[5],,20
+0,Ásia,India,Índia,1428627663
+1,Ásia,China,China,1425671352
+2,Ásia,Indonesia,Indonésia,272096348
+3,Ásia,Pakistan,Paquistão,240485658
+4,Ásia,Bangladesh,Bangladesh,172954319
+5,Ásia,Japan,Japão,123294513
+6,Ásia,Philippines,Filipinas,117337368
+7,Ásia,Vietnam,Vietnã,98858950
+8,Ásia,Iran,Irã,89172767
+9,Ásia,Turkey,Turquia,73568471
+10,Ásia,Thailand,Tailândia,71801279
+11,Ásia,Myanmar,Mianmar,54577997
+12,Ásia,South Korea,Coreia do Sul,51784059
+13,Ásia,Iraq,Iraque,45504560
+14,Ásia,Afghanistan,Afeganistão,42239854
+15,Ásia,Russia,Rússia,37069254
+16,Ásia,Saudi Arabia,Arábia Saudita,36947025
+17,Ásia,Uzbekistan,Uzbequistão,35163944
+18,Ásia,Yemen,Iémen,34449825
+19,Ásia,Malaysia,Malásia,34308525
+20,Ásia,Nepal,Nepal,30896590
+21,Ásia,North Korea,Coreia do Norte,26160822
+22,Ásia,Taiwan,Taiwan,23923277
+23,Ásia,Syria,Síria,23227014
+24,Ásia,Sri Lanka,Sri Lanka,21893579
+25,Ásia,Kazakhstan,Cazaquistão,19014710
+26,Ásia,Cambodia,Camboja,16944826
+27,Ásia,Jordan,Jordânia,11337053
+28,Ásia,United Arab Emirates,Emirados Árabes Unidos,10678556
+29,Ásia,Tajikistan,Tajiquistão,10143543
+30,Ásia,Israel,Israel,10003232
+31,Ásia,Azerbaijan,Azerbaijão,9886952
+32,Ásia,Laos,Laos,7633779
+33,Ásia,Hong Kong (China),,7491609
+34,Ásia,Kyrgyzstan,Quirguistão,6735348
+35,Ásia,Turkmenistan,Turcomenistão,6516100
+36,Ásia,Singapore,Singapura,6014723
+37,Ásia,Palestine,Palestina,5371230
+38,Ásia,Lebanon,Líbano,5353930
+39,Ásia,Oman,Omã,4644384
+40,Ásia,Kuwait,Kuwait,4310108
+41,Ásia,Georgia,Geórgia,3728282
+42,Ásia,Mongolia,Mongólia,3447157
+43,Ásia,Armenia,Armênia,2777971
+44,Ásia,Qatar,Catar,2716391
+45,Ásia,Bahrain,Bahrein,1485510
+46,Ásia,Timor-Leste,Timor-Leste,1360596
+47,Ásia,Cyprus,Chipre,1260138
+48,Ásia,Bhutan,Butão,787425
+49,Ásia,Egypt,Egito,773938
+50,Ásia,Macau (China),,704150
+51,Ásia,Maldives,Maldivas,523787
+52,Ásia,Brunei,Brunei,452524
+1,Europa,Russia,Rússia,143997393
+2,Europa,Turkey,Turquia,87685426
+3,Europa,Germany,Alemanha,84075074
+4,Europa,United Kingdom,Reino Unido,69551332
+5,Europa,France,França,66650804
+6,Europa,Italy,Itália,59146260
+7,Europa,Spain,Espanha,47889958
+8,Europa,Ukraine,Ucrânia,38980376
+9,Europa,Poland,Polônia,38140910
+10,Europa,Kazakhstan,Cazaquistão,20843754
+11,Europa,Romania,Romênia,18908650
+12,Europa,Netherlands,Países Baixos,18346819
+13,Europa,Belgium,Bélgica,11758603
+14,Europa,Sweden,Suécia,10656633
+15,Europa,Czech Republic,República Tcheca,10609240
+16,Europa,Portugal,Portugal,10411834
+17,Europa,Azerbaijan,Azerbaijão,10397713
+18,Europa,Greece,Grécia,9938844
+19,Europa,Hungary,Hungria,9632287
+20,Europa,Austria,Áustria,9113574
+21,Europa,Belarus,Bielorrússia,8997603
+22,Europa,Switzerland,Suíça,8967408
+23,Europa,Bulgaria,Bulgária,6714560
+24,Europa,Serbia,Sérvia,6689039
+25,Europa,Denmark,Dinamarca,6002507
+26,Europa,Finland,Finlândia,5623330
+27,Europa,Norway,Noruega,5623071
+28,Europa,Slovakia,Eslováquia,5474881
+29,Europa,Ireland,Irlanda,5308039
+30,Europa,Croatia,Croácia,3848160
+31,Europa,Georgia,Geórgia,3806671
+32,Europa,Bosnia and Herzegovina,Bósnia e Herzegovina,3140096
+33,Europa,Moldova,Moldávia,2996106
+34,Europa,Armenia,Armênia,2952364
+35,Europa,Lithuania,Lituânia,2830144
+36,Europa,Albania,Albânia,2771508
+37,Europa,Slovenia,Eslovênia,2117072
+38,Europa,Latvia,Letônia,1853559
+39,Europa,North Macedonia,Macedônia do Norte,1813791
+40,Europa,Kosovo,Kosovo,1674125
+41,Europa,Cyprus,Chipre,1370754
+42,Europa,Estonia,Estônia,1344232
+43,Europa,Luxembourg,Luxemburgo,680454
+44,Europa,Montenegro,Montenegro,632729
+45,Europa,Malta,Malta,545405
+46,Europa,Iceland,Islândia,398266
+47,Europa,Jersey (UK),,103988
+48,Europa,Isle of Man (UK),,84118
+49,Europa,Andorra,Andorra,82904
+50,Europa,Guernsey (UK),,64476
+51,Europa,Faroe Islands (Denmark),,56002
+52,Europa,Liechtenstein,Liechtenstein,40128
+53,Europa,Gibraltar (UK),,40126
+54,Europa,Monaco,Mônaco,38341
+55,Europa,San Marino,São Marino,33572
+56,Europa,Vatican City,Vaticano,-
+0,Oceania,Australia,Austrália,26439112
+1,Oceania,Papua New Guinea,Papua-Nova Guiné,10329931
+2,Oceania,Western New Guinea (ID),,5628545
+3,Oceania,New Zealand,Nova Zelândia,5228100
+4,Oceania,Hawaii (US),,1440196
+5,Oceania,Fiji,Fiji,936376
+6,Oceania,Solomon Islands,Ilhas Salomão,740425
+7,Oceania,Vanuatu,Vanuatu,334506
+8,Oceania,French Polynesia (FR),,308872
+9,Oceania,New Caledonia (FR),,292991
+10,Oceania,Samoa,Samoa,225681
+11,Oceania,Guam (US),,172952
+12,Oceania,Kiribati,Kiribati,133515
+13,Oceania,Micronesia,Micronésia,115224
+14,Oceania,Tonga,Tonga,107773
+15,Oceania,Northern Mariana Islands (US),,49796
+16,Oceania,American Samoa (US),,43915
+17,Oceania,Marshall Islands,Ilhas Marshall,41996
+18,Oceania,Palau,Palau,18058
+19,Oceania,Cook Islands (NZ),,17044
+20,Oceania,Nauru,Nauru,12780
+21,Oceania,Wallis and Futuna (FR),,11502
+22,Oceania,Tuvalu,Tuvalu,11396
+23,Oceania,Easter Island (CL),,8743
+24,Oceania,Niue (NZ),,1935
+25,Oceania,Tokelau (NZ),,1893
+26,Oceania,Pitcairn Islands (UK),,50
