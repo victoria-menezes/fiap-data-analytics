@@ -35,3 +35,6 @@ def ticks_per_interval(ax, base, offset, axis='x',):
         ax.xaxis.set_major_locator(ticker.MultipleLocator(base, offset=offset))
     else:
         ax.yaxis.set_major_locator(ticker.MultipleLocator(base, offset=offset))
+
+def set_axes_cycler(cycler):
+    plt.rc('axes',prop_cycle = cycler)
