@@ -38,3 +38,12 @@ def ticks_per_interval(ax, base, offset, axis='x',):
 
 def set_axes_cycler(cycler):
     plt.rc('axes',prop_cycle = cycler)
+
+def get_top(df, column_sort, column_top, top = 5):
+    return df.sort_values(column_sort, ascending=False).head(top).reset_index()[column_top]
+
+def move_legend(loc : str ='center left', bbox : tuple = (1.0,0.5)):
+    plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
+
+def set_figsize(size):
+    plt.figure(figsize=size)
