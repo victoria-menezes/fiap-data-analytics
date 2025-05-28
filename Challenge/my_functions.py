@@ -46,4 +46,13 @@ def move_legend(loc : str ='center left', bbox : tuple = (1.0,0.5)):
     plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 
 def set_figsize(size):
-    plt.figure(figsize=size)
+    return plt.figure(figsize=size)
+
+def export_fig(name):
+    plt.savefig(f'./0.graphs/{name}.png', bbox_inches='tight')
+
+def add_horizontal_line(ax, value, text, color, style='--'):
+    ax.axhline(value, c=color,ls=style)
+    # xlim = ax.get_xlim()[1]
+    # ylim = ax.get_ylim()[1]
+    ax.text(ax.get_xlim()[1]*1.01, value, text)
