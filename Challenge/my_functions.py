@@ -16,7 +16,7 @@ def add_grid(ax):
     plt.grid(zorder=-1, linestyle='--')
 
 def set_y_lim(df : pd.DataFrame, column : str, percentage : float = 0.2):
-    max = df.max()[column]
+    max = df.max(numeric_only=True)[column]
     plt.ylim(0, max*(1 + percentage))
 
 def set_labels(x : str = '', y : str = ''):
@@ -43,7 +43,7 @@ def get_top(df, column_sort, column_top, top = 5):
     return df.sort_values(column_sort, ascending=False).head(top).reset_index()[column_top]
 
 def move_legend(loc : str ='center left', bbox : tuple = (1.0,0.5)):
-    plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
+    plt.legend(loc='center left', bbox_to_anchor=bbox)
 
 def set_figsize(size):
     return plt.figure(figsize=size)
